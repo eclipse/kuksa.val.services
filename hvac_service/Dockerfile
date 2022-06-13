@@ -12,7 +12,7 @@
 # ********************************************************************************/
 
 # Build stage, to create a Virtual Environent
-FROM --platform=$TARGETPLATFORM python:3.9-slim-bullseye as builder
+FROM --platform=$TARGETPLATFORM python:3.10.5-slim-bullseye as builder
 
 ARG TARGETPLATFORM
 ARG BUILDPLATFORM
