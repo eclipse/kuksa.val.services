@@ -52,7 +52,7 @@ jobs:
           string: ${{ github.repository }}
 
       - name: Set up QEMU
-        uses: docker/setup-qemu-action@v1
+        uses: docker/setup-qemu-action@v2
 
       - name: "Build image"
         id: image_build
