@@ -108,7 +108,7 @@ jobs:
 
       - name: "Build seat service image"
         id: image_build
-        uses: docker/build-push-action@v2
+        uses: docker/build-push-action@v3
         with:
           pull: true
           push: false
