@@ -46,7 +46,7 @@ jobs:
 
       - name: Using the builtin GitHub Cache Action for .conan
         id: cache-conan
-        uses: actions/cache@v3.0.2
+        uses: actions/cache@v3.0.4
         env:
           cache-name: cache-conan-modules
         with:
