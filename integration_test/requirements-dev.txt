@@ -1,6 +1,6 @@
 grpcio>=1.26.0
 grpcio-tools>=1.26.0
-protobuf==3.19.3
+protobuf==4.21.2
 pydocstyle >= 6.1.1
 mypy >= 0.910
 mypy-protobuf >= 3.0.0
