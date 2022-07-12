@@ -1,4 +1,4 @@
 grpcio>=1.26.0
-protobuf==3.19.3
+protobuf==4.21.2
 types-protobuf >= 0.1.14
 grpcio-tools>=1.26.0
