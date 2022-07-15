@@ -13,7 +13,7 @@
 /**
  * @file      data_broker_feeder.h
  * @brief     The DataBrokerFeeder is generic feeder allowing to register and 
- *            feed data points into the Kuksa Data Broker:
+ *            feed data points into the KUKSA Data Broker:
  *             * The set of feedable datapoints is passed on construction time
  *               to the feeder as a parameter together with the broker address.
  *             * Data points can be feed separately or as a batch.

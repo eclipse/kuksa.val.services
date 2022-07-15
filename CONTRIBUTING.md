@@ -1,6 +1,6 @@
-# How to Contribute to Eclipse Kuksa
+# How to Contribute to Eclipse KUKSA
 
-First of all, thanks for considering to contribute to Eclipse Kuksa. We really
+First of all, thanks for considering to contribute to Eclipse KUKSA. We really
 appreciate the time and effort you want to spend helping to improve things around here.
 
 In order to get you started as fast as possible we need to go through some organizational issues first, though.

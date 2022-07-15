@@ -13,7 +13,7 @@
 /**
  * @file      seat_data_feeder.h
  * @brief     The seat data feeder is responsible to feed the seat-related data
- *            points into the Kuksa Data Broker:
+ *            points into the KUKSA Data Broker:
  *             * It defines the metadata of those data points.
  *             * It subscribes to the signals provided via the seat service
  *               internal SeatAdjuster interface for receiving updates of those.
